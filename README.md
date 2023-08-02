@@ -7,17 +7,17 @@ User can explore various destination for various occasions.
 
 
 
-<img src="C:\Users\DELL\project1\Blogger\ss2021-10-28 at 9.17.19 PM.png">
+<img src="ss2021-10-28 at 9.17.19 PM.png">
 <br>
-<img src="C:\Users\DELL\project1\Blogger\ss 2021-10-28 at 9.17.29 PM-1.png">
+<img src="ss 2021-10-28 at 9.17.29 PM-1.png">
 <br>
-<img src="C:\Users\DELL\project1\Blogger\ss 2021-10-28 at 9.17.36 PM.png">
+<img src="ss 2021-10-28 at 9.17.36 PM.png">
 <br>
-<img src="C:\Users\DELL\project1\Blogger\ss 2021-10-28 at 9.17.41 PM.png">
+<img src="ss 2021-10-28 at 9.17.41 PM.png">
 <br>
-<img src="C:\Users\DELL\project1\Blogger\ss 2021-10-28 at 9.17.48 PM.png">
+<img src="ss 2021-10-28 at 9.17.48 PM.png">
 <br>
-<img src="C:\Users\DELL\project1\Blogger\ss 2021-10-28 at 9.17.52 PM.png">
+<img src="ss 2021-10-28 at 9.17.52 PM.png">
 <br>
 
 
